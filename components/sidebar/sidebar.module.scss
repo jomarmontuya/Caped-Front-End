@@ -1,0 +1,18 @@
+.sidebar {
+  height: 100%;
+}
+.sidebarLinks {
+  color: #000;
+  font-weight: 500;
+  text-align: left;
+  text-decoration: none;
+  &:hover {
+    color: #000;
+  }
+}
+.sidebarText {
+  margin-left: 10px;
+  &:hover {
+    border-bottom: 2px solid #f2df4d;
+  }
+}
